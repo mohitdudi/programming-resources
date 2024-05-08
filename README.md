@@ -1,8 +1,6 @@
-# Learn Programming
 ## Java Resources
-####[Java by JetBrains](https://lp.jetbrains.com/academy/learn-java/)
-- This is a bundle of courses provided by JetBrains for free
-- This bundle includes different Java courses for different levels
+#### Video Courses
+- [Java by JetBrains](https://lp.jetbrains.com/academy/learn-java/)
 
 ## Rust Resources
 #### Books
